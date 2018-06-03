@@ -1,2 +1,5 @@
+import rama2
+
 Te inserto una linea de la rama1
 Linea de la rama principal
+Añado linea rama2
